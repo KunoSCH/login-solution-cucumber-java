@@ -12,4 +12,4 @@ Feature: Login
       When The user enters his username in the username field
       And The user enters his password in the password field
       And The user presses the login button
-      Then The system should display "Hello John"
+      Then The system should display "Login success"
